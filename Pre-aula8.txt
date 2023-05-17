@@ -1,1 +1,10 @@
-Uma Single Page Application (SPA) é uma aplicação web que carrega uma única página HTML e atualiza dinamicamente o conteúdo da página à medida que o usuário interage com a aplicação. Isso significa que a página não precisa ser recarregada a cada nova ação do usuário, o que resulta em uma experiência mais rápida e fluida. As SPAs são construídas usando frameworks JavaScript, como Angular, React e Vue, e geralmente se comunicam com um servidor de back-end por meio de APIs RESTful. As SPAs são ideais para aplicativos que exigem interatividade em tempo real, como aplicativos de bate-papo, jogos e plataformas de mídia social. No entanto, as SPAs também têm desafios, como gerenciamento de estado complexo e problemas de SEO, que devem ser considerados ao decidir se uma SPA é a escolha certa para um projeto específico.
+Curso de Engenharia de Software - UniEVANGÉLICA 
+Disciplina de Programação Web 
+Dev: Thiago Silva Soares
+DATA: 17/05/2023 
+
+Uma Single Page Application (SPA) é uma aplicação web que carrega uma única página HTML e atualiza dinamicamente o conteúdo da página à medida que o usuário interage com a aplicação. Isso significa que a página não precisa ser recarregada a cada nova ação do usuário, o que resulta em uma experiência mais rápida e fluida. 
+
+As SPAs são construídas usando frameworks JavaScript, como Angular, React e Vue, e geralmente se comunicam com um servidor de back-end por meio de APIs RESTful. As SPAs são ideais para aplicativos que exigem interatividade em tempo real, como aplicativos de bate-papo, jogos e plataformas de mídia social. 
+
+No entanto, as SPAs também têm desafios, como gerenciamento de estado complexo e problemas de SEO, que devem ser considerados ao decidir se uma SPA é a escolha certa para um projeto específico.
